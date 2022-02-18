@@ -1,7 +1,5 @@
 # DSA
-
-
-
 1. Sorting Algorithms
-2. Selection Sort
-
+   1. Bubble Sort
+   2. Selection Sort
+   
